@@ -5,8 +5,9 @@ An interactive Power BI dashboard analyzing merchandise sales performance across
 ---
 
 ## Dashboard Preview
+<img width="1026" height="577" alt="image" src="https://github.com/user-attachments/assets/c3d3e52c-03b3-4a2a-9324-facdc50d997e" />
+<img width="1026" height="577" alt="image" src="https://github.com/user-attachments/assets/6b5dc7a0-e9fb-4e7d-8b1c-ee2d2bf51566" />
 
-![Merchandise Sales Analytics Dashboard](screenshots/dashboard.png)
 
 ---
 
