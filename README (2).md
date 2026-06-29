@@ -91,4 +91,4 @@ merchandise-sales-dashboard/
 
 ## Author
 
-Built as a Power BI portfolio project. Feel free to connect or reach out for collaboration!
+Loyiha [ https://github.com/Adurasulov-data ] tomonidan tayyorlangan.
